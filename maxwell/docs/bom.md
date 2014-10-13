@@ -4,9 +4,9 @@
 
 Qty | Description                        | Est. Cost | Notes
 ----|------------------------------------|-----------|-------
-1   | [Drive wheels, casters, encoder cables.](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529) | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables.
-2   | http://banebots.com/c/WHB-HS4-498 | $6.80 ea. | Any of the three colors will do.
-2   | http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62 | $4.50 ea. | These are 6mm and will need to be bored out to 1/4" to match motors above.
+1   | [Drive motors, casters, encoder cables.](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529) | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables.
+2   | [Drive wheel](http://banebots.com/c/WHB-HS4-498) | $6.80 ea. | Any of the three colors will do.
+2   | [Hub, hex, 6mm bore](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62) | $4.50 ea. | These are 6mm and will need to be bored out to 1/4" to match motors above.
 20  | Digikey P/N 621K-ND | $6 total | These are used to assemble the base.
 1   | UB1280 12V 8AH SLA | $20 | Available from Amazon among others.
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 ea. | The 8020 Ebay store can be a good place to buy this and other 8020 components.
