@@ -15,13 +15,14 @@ Qty | Description                        | Est. Cost | Notes
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 ea. | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
 2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 setions.
-1   | 8020 3/8" Screws, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate.
+1   | 8020 3/8" Screws, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
 1   | 8020 1/2" Screws, T Nuts (25) P/N 3321 | $12.50 | (4) for estop.
 6   | 1/4-20 x 5/8" Screw | ? | (4) for head, (2) for base
+2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
 1   | [20" Linear actuator.](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
-2   | [Actuator mount.](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | 
+2   | [Actuator mount.](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
 3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
-5   | Dynamixel MX-64T | $299.90 | Used in arm.
+5   | [Dynamixel MX-64T](http://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx) | $299.90 | Used in arm.
 2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 | Used in gripper.
 1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 | Used in head tilt.
 7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
