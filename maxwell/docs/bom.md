@@ -13,18 +13,18 @@ Qty | Description                        | Est. Cost | Notes
 4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
 1   | UB1280 12V 8AH SLA | $20 | Available from Amazon among others.
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 ea. | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
-2   | 8020 Corner Bracket P/N 4108 | $2.75 ea. | Used to hold torso upright.
+2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 setions.
 1   | 8020 3/8" Screws, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate.
 1   | 8020 1/2" Screws, T Nuts (25) P/N 3321 | $12.50 | (4) for estop.
 6   | 1/4-20 x 5/8" Screw | ? | (4) for head, (2) for base
 1   | [20" Linear actuator.](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
-2   | [Actuator mount.](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 ea. | 
-3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 ea. | (2) in head, (1) for wrist roll.
-5   | Dynamixel MX-64T | $299.90 ea. | Used in arm.
-2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 ea. | Used in gripper.
-1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 ea. | Used in head tilt.
-7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 ea. | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
+2   | [Actuator mount.](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | 
+3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
+5   | Dynamixel MX-64T | $299.90 | Used in arm.
+2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 | Used in gripper.
+1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 | Used in head tilt.
+7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
 1   | [FR07-H101K](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx) | $27.90 | Hinge kit used for wrist flex.
 2   | [HN07-I101 Idler](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx) | $14.10 | Needed for upper arm MX-64 servos.
 3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
