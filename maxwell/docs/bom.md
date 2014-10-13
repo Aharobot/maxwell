@@ -25,11 +25,11 @@ Qty | Description                        | Est. Cost | Notes
 2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 ea. | Used in gripper.
 1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 ea. | Used in head tilt.
 7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 ea. | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
-1   | FR07-H101K | $27.90 | Hinge kit used for wrist flex
-2   | HN07-I101 Idler | $14.10 | Needed for upper arm MX-64 servos
-3   | FR07-S101K Side Frame | $11.90 | Used for arm pan
-1   | Power switch RS 275-666
-1   | 12V snap in blue bulb RS 272-335
+1   | [FR07-H101K](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx) | $27.90 | Hinge kit used for wrist flex.
+2   | [HN07-I101 Idler](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx) | $14.10 | Needed for upper arm MX-64 servos.
+3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
+1   | [Power switch DPDT](http://www.radioshack.com/product/index.jsp?productId=2062518) | $3.99 | Radio Shack 275-666.
+1   | [12V snap in blue bulb](http://www.radioshack.com/product/index.jsp?productId=2062368) | 2.99 | Radio Shack 272-335.
 1   | Charge inlet
 1   | Power inlet
 ??  | standoffs for etherbotix, power board, motor driver
