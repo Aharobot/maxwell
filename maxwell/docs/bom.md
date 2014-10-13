@@ -9,6 +9,7 @@ Qty | Description                        | Est. Cost | Notes
 1   | [Drive motors, casters, encoder cables.](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529) | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables.
 2   | [Drive wheel](http://banebots.com/c/WHB-HS4-498) | $6.80 | Any of the three colors will do.
 2   | [Hub, hex, 6mm bore](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62) | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above.
+4   | [1/4-20 x 1-1/2" Hex Standoff](http://www.mcmaster.com/#91780a974/=u4mzp8) | $2.02 | Used to attach caster to base.
 1   | UB1280 12V 8AH SLA | ~$20 | Available from Amazon among others.
 1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
 1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
@@ -18,10 +19,12 @@ Qty | Description                        | Est. Cost | Notes
 1   | [Size M Charge inlet](http://www.radioshack.com/product/index.jsp?productId=2102486) | $3.49 | RS 274-1463. Charge block needs to be reterminated with [Size M DC Plug](http://www.radioshack.com/product/index.jsp?productId=2103614).
 1   | [Size N Power inlet](http://www.radioshack.com/product/index.jsp?productId=2102489) | $3.49 | RS 274-1576, 2.5mm I.D. power jack. Matches bioloid power brick.
 18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
-48  | 4-40 x 1/4" SHCS | ? | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
-12  | 4-40 x 3/8" SHCS | ? | (12) Used to attach top of base.
-4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
-3  | [5/16" 4-40 Standoff (4-pack)](http://www.pololu.com/product/2089) | $1.59 | Used to mount Etherbotix, power board and torso motor driver.
+48  | [4-40 x 1/4" SHCS](http://www.mcmaster.com/#91251a106/=u4n07b) | $8.08 (100pk) | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
+12  | [4-40 x 3/8" SHCS](http://www.mcmaster.com/#91251a108/=u4n0ks) | $7.95 (100pk) | (12) Used to attach top of base.
+4   | [4-40 x 1/2" SHCS](http://www.mcmaster.com/#91251a110/=u4n0wz) | $8.34 (100pk) | Used to install upright holder to base.
+4   | [4-40 Machine Screw Nut](http://www.mcmaster.com/#90480a005/=u4n2oa) | $0.81 (100pk) | Used to install upright holder to base.
+4   | [4-40 Lock Washer](http://www.mcmaster.com/#95584a200/=u4n3cc) | $2.29 (100pk) | Used to install upright holder to base.
+3   | [5/16" 4-40 Standoff (4-pack)](http://www.pololu.com/product/2089) | $1.59 | Used to mount Etherbotix, power board and torso motor driver.
 
 Components for the Torso Lift:
 
@@ -54,7 +57,7 @@ Qty | Description                        | Est. Cost | Notes
 3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
 4   | 8020 White Unibearing Pad 6792 | $3.00 | Support bearings for the arm trolley.
 8   | 10-32 Flat Head, 3/4"L | ??? | Used to attach support bearings to laser cut arm trolley parts.
-2   | M5 x 8mm SHCS | ? | Used to attach arm trolley to linear actuator.
+2   | [M5 x 8mm SHCS](http://www.mcmaster.com/#91274a125/=u4n45c) | $5.95 (50pk) | Used to attach arm trolley to linear actuator.
 
 The following parts are components of the Gen 1 gripper:
 
