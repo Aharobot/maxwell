@@ -2,7 +2,7 @@
 
 ## Purchased Components
 
-Main components:
+Components for the mobile base:
 
 Qty | Description                        | Est. Cost | Notes
 ----|------------------------------------|-----------|-------
@@ -10,11 +10,39 @@ Qty | Description                        | Est. Cost | Notes
 2   | [Drive wheel](http://banebots.com/c/WHB-HS4-498) | $6.80 | Any of the three colors will do.
 2   | [Hub, hex, 6mm bore](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62) | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above.
 1   | UB1280 12V 8AH SLA | ~$20 | Available from Amazon among others.
+1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
+1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
+1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
+1   | [Power switch DPDT](http://www.radioshack.com/product/index.jsp?productId=2062518) | $3.99 | Radio Shack 275-666.
+1   | [12V snap in blue bulb](http://www.radioshack.com/product/index.jsp?productId=2062368) | 2.99 | Radio Shack 272-335.
+1   | Charge inlet
+1   | Power inlet
+18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
+24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
+12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
+4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
+??  | standoffs for etherbotix, power board, motor driver
+
+Components for the Torso Lift:
+
+Qty | Description                        | Est. Cost | Notes
+----|------------------------------------|-----------|-------
+1   | [20" Linear actuator](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
+2   | [Actuator mount](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
 2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 sections.
-1   | [20" Linear actuator](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
-2   | [Actuator mount](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
+1   | 8020 3/8" Bolt, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
+1   | 8020 1/2" Bolt, T Nuts (25) P/N 3321 | $12.50 | (4) for mounting estop assembly.
+6   | 1/4-20 x 5/8" Bolt | ? | (4) for head, (2) for base.
+2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
+1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
+??  | estop standoff
+
+Components for the Arm:
+
+Qty | Description                        | Est. Cost | Notes
+----|------------------------------------|-----------|-------
 3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
 5   | [Dynamixel MX-64T](http://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx) | $299.90 | Used in arm.
 2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 | Used in gripper.
@@ -23,29 +51,6 @@ Qty | Description                        | Est. Cost | Notes
 1   | [FR07-H101K](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx) | $27.90 | Hinge kit used for wrist flex.
 2   | [HN07-I101 Idler](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx) | $14.10 | Needed for upper arm MX-64 servos.
 3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
-1   | [Power switch DPDT](http://www.radioshack.com/product/index.jsp?productId=2062518) | $3.99 | Radio Shack 275-666.
-1   | [12V snap in blue bulb](http://www.radioshack.com/product/index.jsp?productId=2062368) | 2.99 | Radio Shack 272-335.
-1   | Charge inlet
-1   | Power inlet
-1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
-1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
-1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
-1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
-
-Hardware:
-
-Qty | Description                        | Est. Cost | Notes
-----|------------------------------------|-----------|-------
-18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
-24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
-12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
-4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
-1   | 8020 3/8" Bolt, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
-1   | 8020 1/2" Bolt, T Nuts (25) P/N 3321 | $12.50 | (4) for mounting estop assembly.
-6   | 1/4-20 x 5/8" Bolt | ? | (4) for head, (2) for base.
-2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
-??  | standoffs for etherbotix, power board, motor driver
-??  | estop standoff
 ??  | mounting hardware for 
 ??  | 8020 bearings
 
