@@ -15,8 +15,8 @@ Qty | Description                        | Est. Cost | Notes
 1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
 1   | [Power switch DPDT](http://www.radioshack.com/product/index.jsp?productId=2062518) | $3.99 | Radio Shack 275-666.
 1   | [12V snap in blue bulb](http://www.radioshack.com/product/index.jsp?productId=2062368) | 2.99 | Radio Shack 272-335.
-1   | Charge inlet
-1   | Power inlet
+1   | [Size M Charge inlet](http://www.radioshack.com/product/index.jsp?productId=2102486) | $3.49 | RS 274-1463. Charge block needs to be reterminated with [Size M DC Plug](http://www.radioshack.com/product/index.jsp?productId=2103614).
+1   | [Size N Power inlet](http://www.radioshack.com/product/index.jsp?productId=2102489) | $3.49 | RS 274-1576, 2.5mm I.D. power jack. Matches bioloid power brick.
 18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
 24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
 12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
@@ -68,8 +68,9 @@ Optional components (or use your own wiring):
 Qty | Description                        | Est. Cost | Notes
 ----|------------------------------------|-----------|-------
 1   | [Jumper wires F-F](http://www.pololu.com/product/1700) | $12.49 | Recommended way of easily connecting torso lift motor controller to Etherbotix.
-??  | Wire Pin Connectors (Digikey A99257-ND) | $0.28 ea. | Recommended for terminating wires into terminal blocks.
-??  | 16ga white, black
+18  | [Wire Pin Connectors](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=158992935) | $0.28 | Recommended for terminating wires into terminal blocks.
+1   | [16ga Wire, 25ft (black)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-Black-55666621/202316512) | $5.20 | For power wiring.
+1   | [16ga Wire, 25ft (white)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-White-55667921/202316509) | $5.20 | For power wiring.
 ??  | long dynamixel wires (length is?)
 
 ## Custom Components
@@ -89,6 +90,7 @@ Qty | Description                        | Est. Cost | Notes
 1   | Terminal Block 3P, Orange          | 0.77      | Digikey 281-2882-ND
 1   | Terminal Block 3P, Black           | 0.77      | Digikey 281-1883-ND 
 1   | (optional) 19V regulator for NUC   | $16.95    | http://www.pololu.com/product/2571
+1   | (optional) [Size N DC Power Plug](http://www.radioshack.com/product/index.jsp?productId=2102488) | $3.99 | Matches power plug on NUC.
 
 Finally, there are a number of laser cut and 3d printed components. The 3d printed
 components include:
