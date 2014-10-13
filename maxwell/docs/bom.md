@@ -18,10 +18,10 @@ Qty | Description                        | Est. Cost | Notes
 1   | [Size M Charge inlet](http://www.radioshack.com/product/index.jsp?productId=2102486) | $3.49 | RS 274-1463. Charge block needs to be reterminated with [Size M DC Plug](http://www.radioshack.com/product/index.jsp?productId=2103614).
 1   | [Size N Power inlet](http://www.radioshack.com/product/index.jsp?productId=2102489) | $3.49 | RS 274-1576, 2.5mm I.D. power jack. Matches bioloid power brick.
 18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
-24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
-12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
+48  | 4-40 x 1/4" SHCS | ? | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
+12  | 4-40 x 3/8" SHCS | ? | (12) Used to attach top of base.
 4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
-??  | standoffs for etherbotix, power board, motor driver
+3  | [5/16" 4-40 Standoff (4-pack)](http://www.pololu.com/product/2089) | $1.59 | Used to mount Etherbotix, power board and torso motor driver.
 
 Components for the Torso Lift:
 
@@ -29,6 +29,7 @@ Qty | Description                        | Est. Cost | Notes
 ----|------------------------------------|-----------|-------
 1   | [20" Linear actuator](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
 2   | [Actuator mount](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
+2   | 1/4-20 x 1.5" Bolt w/ Nut | ??? | For attaching linear actuator to mounts.
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
 2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 sections.
@@ -37,7 +38,7 @@ Qty | Description                        | Est. Cost | Notes
 6   | 1/4-20 x 5/8" Bolt | ? | (4) for head, (2) for base.
 2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
 1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
-??  | estop standoff
+1   | 1.25"L 4-40 Standoff | ? | Holds runstop bracket together.
 
 Components for the Arm:
 
@@ -51,8 +52,9 @@ Qty | Description                        | Est. Cost | Notes
 1   | [FR07-H101K](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx) | $27.90 | Hinge kit used for wrist flex.
 2   | [HN07-I101 Idler](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx) | $14.10 | Needed for upper arm MX-64 servos.
 3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
-??  | mounting hardware for 
-??  | 8020 bearings
+4   | 8020 White Unibearing Pad 6792 | $3.00 | Support bearings for the arm trolley.
+8   | 10-32 Flat Head, 3/4"L | ??? | Used to attach support bearings to laser cut arm trolley parts.
+2   | M5 x 8mm SHCS | ? | Used to attach arm trolley to linear actuator.
 
 The following parts are components of the Gen 1 gripper:
 
