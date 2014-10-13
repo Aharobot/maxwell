@@ -2,23 +2,17 @@
 
 ## Purchased Components
 
+Main components:
+
 Qty | Description                        | Est. Cost | Notes
 ----|------------------------------------|-----------|-------
 1   | [Drive motors, casters, encoder cables.](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529) | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables.
 2   | [Drive wheel](http://banebots.com/c/WHB-HS4-498) | $6.80 | Any of the three colors will do.
 2   | [Hub, hex, 6mm bore](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62) | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above.
-18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
-24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
-12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
-4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
 1   | UB1280 12V 8AH SLA | ~$20 | Available from Amazon among others.
 2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
 2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
-1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 setions.
-1   | 8020 3/8" Screws, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
-1   | 8020 1/2" Screws, T Nuts (25) P/N 3321 | $12.50 | (4) for estop.
-6   | 1/4-20 x 5/8" Screw | ? | (4) for head, (2) for base
-2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
+1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 sections.
 1   | [20" Linear actuator](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)| $119.99 | Torso lift
 2   | [Actuator mount](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
 3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
@@ -34,13 +28,26 @@ Qty | Description                        | Est. Cost | Notes
 1   | Charge inlet
 1   | Power inlet
 1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
+1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
+1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
+1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
+
+Hardware:
+
+Qty | Description                        | Est. Cost | Notes
+----|------------------------------------|-----------|-------
+18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
+24  | 4-40 x 1/4" SHCS | ? | Used to assemble base.
+12  | 4-40 x 3/8" SHCS | ? | Used to assemble base, longer screws are used for attaching the top plate.
+4   | 4-40 x 1/2" SHCS + Nut | ? | Used to install upright holder to base.
+1   | 8020 3/8" Bolt, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
+1   | 8020 1/2" Bolt, T Nuts (25) P/N 3321 | $12.50 | (4) for mounting estop assembly.
+6   | 1/4-20 x 5/8" Bolt | ? | (4) for head, (2) for base.
+2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
 ??  | standoffs for etherbotix, power board, motor driver
 ??  | estop standoff
 ??  | mounting hardware for 
 ??  | 8020 bearings
-1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
-1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
-1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
 
 The following parts are components of the Gen 1 gripper:
 
