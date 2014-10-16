@@ -21,10 +21,10 @@ Line|Qty | Description                        | Est. Cost | Notes
 13  |18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
 14  |48  | [4-40 x 1/4" SHCS](http://www.mcmaster.com/#91251a106/=u4n07b) | $8.08 (100pk) | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
 15  |12  | [4-40 x 3/8" SHCS](http://www.mcmaster.com/#91251a108/=u4n0ks) | $7.95 (100pk) | (12) Used to attach top of base.
-16  |4   | [4-40 x 1/2" SHCS](http://www.mcmaster.com/#91251a110/=u4n0wz) | $8.34 (100pk) | Used to install upright holder to base.
+16  |4   | 4-40 x 5/8" SHCS | ? | Used to install upright holder to base.
 17  |4   | [4-40 Machine Screw Nut](http://www.mcmaster.com/#90480a005/=u4n2oa) | $0.81 (100pk) | Used to install upright holder to base.
 18  |4   | [4-40 Lock Washer](http://www.mcmaster.com/#95584a200/=u4n3cc) | $2.29 (100pk) | Used to install upright holder to base.
-19  |11  | 3/8" 4-40 Standoff | ? | Used to mount Etherbotix, power board and torso motor driver.
+19  |11  | 3/8" 4-40 Standoff | ? | Used to mount Etherbotix, power board and torso motor driver. Needs to be plastic.
 
 Components for the Torso and Head:
 
