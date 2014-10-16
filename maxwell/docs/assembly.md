@@ -30,6 +30,6 @@ is connected to a servo header for power.
 # Assembling the Power Board
 
 TODO: convert links to final branch name
-![Power Board 1](https://raw.github.com/mikeferguson/maxwell/doc/maxwell/doc/power_board_1.jpg)
-![Power Board 2](https://raw.github.com/mikeferguson/maxwell/doc/maxwell/doc/power_board_2.jpg)
+![Power Board 1](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_board_1.jpg)
+![Power Board 2](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_board_2.jpg)
 
