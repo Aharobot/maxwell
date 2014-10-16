@@ -26,7 +26,7 @@ Line|Qty | Description                        | Est. Cost | Notes
 18  |4   | [4-40 Lock Washer](http://www.mcmaster.com/#95584a200/=u4n3cc) | $2.29 (100pk) | Used to install upright holder to base.
 19  |11  | 3/8" 4-40 Standoff | ? | Used to mount Etherbotix, power board and torso motor driver.
 
-Components for the Torso Lift:
+Components for the Torso and Head:
 
 Line|Qty | Description                        | Est. Cost | Notes
 ----|----|------------------------------------|-----------|-------
@@ -42,16 +42,16 @@ Line|Qty | Description                        | Est. Cost | Notes
 29  |2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
 30  |1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
 31  |1   | 1.25"L 4-40 Standoff | ? | Holds runstop bracket together.
+32  |1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 | Used in head tilt.
+33  |7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
+34  |1   | [ASUS Xtion Pro Live](http://www.newegg.com/Product/Product.aspx?Item=N82E16826785030) | $169.99 | Head sensor.
 
 Components for the Arm:
 
 Line|Qty | Description                        | Est. Cost | Notes
 ----|----|------------------------------------|-----------|-------
-32  |3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
-33  |5   | [Dynamixel MX-64T](http://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx) | $299.90 | Used in arm.
-34  |2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 | Used in gripper.
-35  |1   | [Bioloid F2](http://www.trossenrobotics.com/store/p/6180-Bioloid-Frame-F2.aspx) | $1.49 | Used in head tilt.
-36  |7   | [Bioloid F3](http://www.trossenrobotics.com/store/p/6181-Bioloid-Frame-F3.aspx) | $1.49 | (2) used to attach head pan servo to neck brackets, (1) used to attach pan and tilt servos, (4) used in gripper.
+35  |3   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 | (2) in head, (1) for wrist roll.
+36  |5   | [Dynamixel MX-64T](http://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx) | $299.90 | Used in arm.
 37  |1   | [FR07-H101K](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx) | $27.90 | Hinge kit used for wrist flex.
 38  |2   | [HN07-I101 Idler](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx) | $14.10 | Needed for upper arm MX-64 servos.
 39  |3   | [FR07-S101K Side Frame](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx) | $11.90 | Used for arm pan.
@@ -64,20 +64,21 @@ The following parts are components of the Gen 1 gripper:
 Line|Qty | Description                        | Est. Cost | Notes
 ----|----|------------------------------------|-----------|-------
 43  |2   | [Dynamixel AX-12](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx) | $44.90 ea. | One servo for each finger.
-44  |2   | [Bioloid F6](http://www.trossenrobotics.com/store/p/6184-Bioloid-Frame-F6.aspx) | $1.49 ea. | Used to attach to wrist roll.
-45  |2   | [Bioloid F9](http://www.trossenrobotics.com/store/p/6187-Bioloid-Frame-F9.aspx) | $1.49 ea. | Used in fingers.
-46  |2   | [Bioloid F11](http://www.trossenrobotics.com/store/p/6189-Bioloid-Frame-F11.aspx) | $1.49 ea. | Used in fingers.
+44  |2   | [Bioloid F1](http://www.trossenrobotics.com/store/p/6179-Bioloid-Frame-F1.aspx) | $1.49 | Used in gripper.
+45  |2   | [Bioloid F6](http://www.trossenrobotics.com/store/p/6184-Bioloid-Frame-F6.aspx) | $1.49 ea. | Used to attach to wrist roll.
+46  |2   | [Bioloid F9](http://www.trossenrobotics.com/store/p/6187-Bioloid-Frame-F9.aspx) | $1.49 ea. | Used in fingers.
+47  |2   | [Bioloid F11](http://www.trossenrobotics.com/store/p/6189-Bioloid-Frame-F11.aspx) | $1.49 ea. | Used in fingers.
 
 Optional components (or use your own wiring):
 
 Line|Qty | Description                        | Est. Cost | Notes
 ----|----|------------------------------------|-----------|-------
-47  |1   | [Jumper wires F-F](http://www.pololu.com/product/1700) | $12.49 | Recommended way of easily connecting torso lift motor controller to Etherbotix.
-48  |18  | [Wire Pin Connectors](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=158992935) | $0.28 | Recommended for terminating wires into terminal blocks.
-49  |1   | [16ga Wire, 25ft (black)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-Black-55666621/202316512) | $5.20 | For power wiring.
-50  |1   | [16ga Wire, 25ft (white)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-White-55667921/202316509) | $5.20 | For power wiring.
-51  |1   | Long dynamixel wire (length?) | ? | For arm
-52  |1   | Long dynamixel wire (length?) | ? | For head
+49  |1   | [Jumper wires F-F](http://www.pololu.com/product/1700) | $12.49 | Recommended way of easily connecting torso lift motor controller to Etherbotix.
+49  |18  | [Wire Pin Connectors](http://www.digikey.com/scripts/DkSearch/dksus.dll?Detail&itemSeq=158992935) | $0.28 | Recommended for terminating wires into terminal blocks.
+50  |1   | [16ga Wire, 25ft (black)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-Black-55666621/202316512) | $5.20 | For power wiring.
+51  |1   | [16ga Wire, 25ft (white)](http://www.homedepot.com/p/Southwire-25-ft-16-Gauge-Primary-Wire-White-55667921/202316509) | $5.20 | For power wiring.
+52  |1   | Long dynamixel wire (length?) | ? | For arm
+53  |1   | Long dynamixel wire (length?) | ? | For head
 
 ## Custom Components
 
@@ -101,12 +102,13 @@ Qty | Description                        | Est. Cost | Notes
 Finally, there are a number of laser cut and 3d printed components. The 3d printed
 components include:
 
-Qty | Description           | Filename or link
-----|-----------------------|-------------------
-1   | Upper arm bracket 1   |
-1   | Upper arm bracket 2   |
-1   | Head sensor mount     |
-1   | Torso lift optical interrupter |
+Qty | Description           | Filename or link  | Notes
+----|-----------------------|-------------------|--------
+1   | Upper arm bracket long | upper_arm_bracket_long.stl | Used between shoulder lift and upper arm roll servos.
+1   | Upper arm bracket | upper_arm_bracket.stl | Used between upper arm roll and elbow flex servos.
+1   | Head sensor mount | head_sensor_mount.stl | Mounts Asus to 
+1   | Torso lift photointerrupter flag | 
+1   | Torso lift photointerrupter mount | 
 
 Laser cut components are split into 3 sheets, one each in 1/8", 3/16" and 1/4"
 thickness, which should all be cut from ABS.
