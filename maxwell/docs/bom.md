@@ -4,17 +4,17 @@
 
 Components for the mobile base:
 
-Line|Qty | Description                        | Est. Cost | Notes
+Line|Qty | Description                        | Est. Cost | Notes / Vendor
 ----|----|------------------------------------|-----------|-------
 1   |1   | Drive motors, casters, encoder cables | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables. [Zagros Robotics](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529)
 2   |2   | Drive wheel | $6.80 | Any of the three colors will do. [Banebots](http://banebots.com/c/WHB-HS4-498)
 3   |2   | Hub, hex, 6mm bore | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above. [Banebots](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62)
-4   |4   | [1/4-20 x 1-1/2" Hex Standoff](http://www.mcmaster.com/#91780a974/=u4mzp8) | $2.02 | Used to attach caster to base.
+4   |4   | 1/4-20 x 1-1/2" Hex Standoff | $2.02 | Used to attach caster to base. [McMaster](http://www.mcmaster.com/#91780a974/=u4mzp8)
 5   |1   | UB1280 12V 8AH SLA | ~$20 | Available from Amazon among others.
-6   |1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
-7   |1   | [Mini-IMU9](http://www.pololu.com/product/2468) | $19.95 | IMU, plugs into Etherbotix.
-8   |1   | [Torso motor driver](http://www.pololu.com/product/705) | $27.95 | Used for torso lift.
-9   |1   | [Power switch DPDT](http://www.radioshack.com/product/index.jsp?productId=2062518) | $3.99 | Radio Shack 275-666.
+6   |1   | Motor driver | $59.95 | Motor driver plugs into Etherbotix. [Pololu](http://www.pololu.com/product/708)
+7   |1   | Mini-IMU9 | $19.95 | IMU, plugs into Etherbotix. [Pololu](http://www.pololu.com/product/2468)
+8   |1   | Torso motor driver | $27.95 | Used for torso lift. [Pololu](http://www.pololu.com/product/705)
+9   |1   | Power switch DPDT | $3.99 | [Radio Shack](http://www.radioshack.com/product/index.jsp?productId=2062518)
 10  |1   | [12V snap in blue bulb](http://www.radioshack.com/product/index.jsp?productId=2062368) | 2.99 | Radio Shack 272-335.
 11  |1   | [Size M Charge inlet](http://www.radioshack.com/product/index.jsp?productId=2102486) | $3.49 | RS 274-1463. Charge block needs to be reterminated with [Size M DC Plug](http://www.radioshack.com/product/index.jsp?productId=2103614).
 12  |1   | [Size N Power inlet](http://www.radioshack.com/product/index.jsp?productId=2102489) | $3.49 | RS 274-1576, 2.5mm I.D. power jack. Matches bioloid power brick.
