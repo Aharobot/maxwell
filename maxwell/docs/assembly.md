@@ -1,5 +1,7 @@
 # Maxwell Assembly Notes
 
+TODO: convert links to final branch name
+
 ## Part Modifications
 
 The BaneBots hubs are only available in Metric, the motor shafts however are
@@ -29,7 +31,11 @@ is connected to a servo header for power.
 
 # Assembling the Power Board
 
-TODO: convert links to final branch name
+The first step in assembling the power board is to install 0.1" headers. Cut
+off 5-pin lengths of header, removing every other pin so that there are only
+3 pins. Solder the headers in:
 ![Power Board 1](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_board_1.jpg)
+
+The second step is to install the terminal blocks:
 ![Power Board 2](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_board_2.jpg)
 
