@@ -106,9 +106,9 @@ Qty | Description           | Filename or link  | Notes
 ----|-----------------------|-------------------|--------
 1   | Upper arm bracket long | upper_arm_bracket_long.stl | Used between shoulder lift and upper arm roll servos.
 1   | Upper arm bracket | upper_arm_bracket.stl | Used between upper arm roll and elbow flex servos.
-1   | Head sensor mount | head_sensor_mount.stl | Mounts Asus to 
-1   | Torso lift photointerrupter flag | 
-1   | Torso lift photointerrupter mount | 
+1   | Head sensor mount | head_sensor_mount.stl | Mounts Asus to bioloid hinge bracket.
+1   | Torso lift photointerrupter flag | ? | Snaps onto linear actuator screw, rotates through photointerrupter.
+1   | Torso lift photointerrupter mount | ? | Holds photointerrupter into opening in side of linear actuator.
 
 Laser cut components are split into 3 sheets, one each in 1/8", 3/16" and 1/4"
 thickness, which should all be cut from ABS.
