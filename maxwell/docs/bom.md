@@ -19,12 +19,12 @@ Line|Qty | Description                        | Est. Cost | Notes
 11  |1   | [Size M Charge inlet](http://www.radioshack.com/product/index.jsp?productId=2102486) | $3.49 | RS 274-1463. Charge block needs to be reterminated with [Size M DC Plug](http://www.radioshack.com/product/index.jsp?productId=2103614).
 12  |1   | [Size N Power inlet](http://www.radioshack.com/product/index.jsp?productId=2102489) | $3.49 | RS 274-1576, 2.5mm I.D. power jack. Matches bioloid power brick.
 13  |18  | [4-40 right angle bracket](http://www.digikey.com/product-search/en/hardware-fasteners-accessories/mounting-brackets/2097394?k=621K-nd) | $6 total | These are used to assemble the base.
-14  |48  | [4-40 x 1/4" SHCS](http://www.mcmaster.com/#91251a106/=u4n07b) | $8.08 (100pk) | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
-15  |12  | [4-40 x 3/8" SHCS](http://www.mcmaster.com/#91251a108/=u4n0ks) | $7.95 (100pk) | (12) Used to attach top of base.
-16  |4   | 4-40 x 5/8" SHCS | ? | Used to install upright holder to base.
+14  |48  | [4-40 x 1/4" SHCS](http://www.lynxmotion.com/p-135-steel-socket-head-screws-14-x-4-40-100.aspx) | $4.35 (100pk) | (24) Used to assemble base. (22) To mount Etherbotix, etc. (2) for runstop bracket.
+15  |12  | [4-40 x 3/8" SHCS](http://www.lynxmotion.com/p-136-steel-socket-head-screws-38-x-4-40-100.aspx) | $4.85 (100pk) | (12) Used to attach top of base.
+16  |4   | [4-40 x 5/8" SHCS](http://www.lynxmotion.com/p-138-steel-socket-head-screws-58-x-4-40-100.aspx) | $5.85 (100pk) | Used to install upright holder to base.
 17  |4   | [4-40 Machine Screw Nut](http://www.mcmaster.com/#90480a005/=u4n2oa) | $0.81 (100pk) | Used to install upright holder to base.
 18  |4   | [4-40 Lock Washer](http://www.mcmaster.com/#95584a200/=u4n3cc) | $2.29 (100pk) | Used to install upright holder to base.
-19  |11  | 3/8" 4-40 Standoff | ? | Used to mount Etherbotix, power board and torso motor driver. Needs to be plastic.
+19  |11  | [3/8" 4-40 Standoff](http://www.lynxmotion.com/p-152-nylon-hex-standoffs-f-f-38-x-14-4-40-tapped-10.aspx) | $4.85 (10pk) | (4) Used to mount Etherbotix, (4) for power board and (3) for torso motor driver. Must be plastic.
 
 Components for the Torso and Head:
 
