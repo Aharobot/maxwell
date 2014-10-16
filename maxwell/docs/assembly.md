@@ -41,13 +41,53 @@ to the power board, and in the other position it will conduct from the power jac
 to the power board. This allows users to plug the power supply in and then switch
 to external power without turning the robot off.
 
-![Wiring Diagram](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/wiring_diagram.png)
+The power jack is located directly below the power switch, while the charge plug
+is located on the other side of the robot. The image below shows how the switch
+is wired:
+
+![Power Switch](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_switch.jpg)
+
+Most of the wiring can be installed while only the base is assembled. When the
+panel of the base is flipped down, it will look something like:
+
+![Wiring Diagram](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/wiring_view.jpg)
+
+In this picture, the power board is on the left, the Etherbotix with motor
+driver is in the center, and the torso lift motor driver is on the right.
+The power cables coming from the power switch in the back of the robot are
+wired into the 2-pin black header on the power board.
 
 The Etherbotix supports split power supplies for logic and motors/servos.
+A single ground wire runs from the power board to the Etherbotix.
 The power board routes 12V directly to the Etherbotix logic supply, while the
 motor/servo power is passed through the runstop. The auxillary power output
 on the Etherbotix (which is connected to motor/servo power) is routed to the
 motor driver board which controls the base motors. The torso lift motor driver
 is connected to a servo header for power.
 
-![Power Switch](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/power_switch.jpg)
+In the image above, the 19V power cable is not installed in the 2-pin orange
+terminal block on the power board.
+
+In this configuration, measured currents include:
+
+ * Servo Current - measures the current used by all servos, as well as the
+   torso lift.
+ * Auxilary Current - measures the current used by the base motors.
+
+## Assembly
+
+The mobile base is constructed of several lasercut ABS panels, held together
+with 4-40 screws and right angle brackets (Digikey 621K-ND). Note that the
+brackets are not symmetrical, check that they are installed correctly (the
+holes in the laser cut components are made asymmetrical to match the bracket
+installation direction). 1/4" long screws are used everywhere except for holding
+the top down, where we use 3/8" long screws.
+ 
+![Base Top View](https://raw.githubusercontent.com/mikeferguson/maxwell/doc/maxwell/docs/top_view.jpg)
+
+The "upright holder" piece is used as a retaining socket for the 8020 upright.
+This piece is bolted to the bottom of the base using 1/2" long 4-40 screws.
+
+The caster is attached to the top plate of the base using 1/4-20 standoffs,
+and pan head bolts (these are actually extras from the bag of 8020 components,
+but have a large head and the black finish matches the ABS).

@@ -37,7 +37,7 @@ Line|Qty | Description                        | Est. Cost | Notes
 24  |2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 25  |1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 sections.
 26  |1   | 8020 3/8" Bolt, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
-27  |1   | 8020 1/2" Bolt, T Nuts (25) P/N 3321 | $12.50 | (4) for mounting estop assembly.
+27  |1   | 8020 1/2" Bolt, T Nuts (25) P/N 3321 | $12.50 | (4) for mounting estop assembly, (8) for mounting caster
 28  |6   | 1/4-20 x 5/8" Bolt | ? | (4) for head, (2) for base.
 29  |2   | 1/4-20 Nut | ? | (2) used to attach corner bracket 4108 to base.
 30  |1   | [Run stop switch](http://www.digikey.com/product-search/en?Cat=1114209&k=Z1504-ND) | $27.30 |
