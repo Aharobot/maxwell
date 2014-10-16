@@ -6,9 +6,9 @@ Components for the mobile base:
 
 Line|Qty | Description                        | Est. Cost | Notes
 ----|----|------------------------------------|-----------|-------
-1   |1   | [Drive motors, casters, encoder cables.](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529) | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables.
-2   |2   | [Drive wheel](http://banebots.com/c/WHB-HS4-498) | $6.80 | Any of the three colors will do.
-3   |2   | [Hub, hex, 6mm bore](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62) | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above.
+1   |1   | Drive motors, casters, encoder cables | $309.95 | Only the motors, encoders, and casters are used. Be sure to select the 2X speed option and also add the HEDS5500 encoder cables. [Zagros Robotics](http://www.zagrosrobotics.com/shop/item.aspx?itemid=529)
+2   |2   | Drive wheel | $6.80 | Any of the three colors will do. [Banebots](http://banebots.com/c/WHB-HS4-498)
+3   |2   | Hub, hex, 6mm bore | $4.50 | These are 6mm and will need to be bored out to 1/4" to match motors above. [Banebots](http://banebots.com/pc/WHB-HM-HS4-M6/T40H-SM62)
 4   |4   | [1/4-20 x 1-1/2" Hex Standoff](http://www.mcmaster.com/#91780a974/=u4mzp8) | $2.02 | Used to attach caster to base.
 5   |1   | UB1280 12V 8AH SLA | ~$20 | Available from Amazon among others.
 6   |1   | [Motor driver](http://www.pololu.com/product/708) | $59.95 | Motor driver plugs into Etherbotix.
