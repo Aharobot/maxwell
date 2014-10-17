@@ -31,7 +31,7 @@ Components for the Torso and Head:
 Line|Qty | Description                        | Est. Cost | Notes / Vendor
 ----|----|------------------------------------|-----------|-------
 20  |1   | 20" Linear actuator| $119.99 | Torso lift actuator. [Firgelli](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)
-21  |2   | Actuator mount[Firgelli](http://www.firgelliauto.com/product_info.php?products_id=54) | $7.00 | Only bracket is used, hardware is replaced.
+21  |2   | Actuator mount | $7.00 | Only bracket is used, hardware is replaced. [Firgelli](http://www.firgelliauto.com/product_info.php?products_id=54)
 22  |2   | 1/4-20 x 1.5" Bolt w/ Nut | ??? | For attaching linear actuator to mounts.
 23  |2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
 24  |2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
