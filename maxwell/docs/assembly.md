@@ -92,6 +92,12 @@ The caster is attached to the top plate of the base using 1/4-20 standoffs,
 and pan head bolts (these are actually extras from the bag of 8020 components,
 but have a large head and the black finish matches the ABS).
 
+TODO: assembling the torso lift
+
+TODO: assembling the arm
+
+TODO: assembling the neck and head
+
 ## ASUS Xtion Configuration
 
 Depending on the age of the ASUS Xtion and the computer you are using, you may have
