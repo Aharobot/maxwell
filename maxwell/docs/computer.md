@@ -3,35 +3,35 @@
  * Install 14.04
  * Install ROS:
 
-    sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
-    wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
-    sudo apt-get update
-    sudo apt-get install ros-indigo-ros-base
-    source /opt/ros/indigo/setup.bash
-    mkdir -p ~/indigo/src
-    cd ~/indigo/src
-    git clone git@github.com:mikeferguson/etherbotix_python.git
-    git clone git@github.com:mikeferguson/maxwell.git
-    cd ~/indigo
-    rosdep install --from-paths src --ignore-src --rosdistro indigo -y
-    catkin_make
+        sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu trusty main" > /etc/apt/sources.list.d/ros-latest.list'
+        wget https://raw.githubusercontent.com/ros/rosdistro/master/ros.key -O - | sudo apt-key add -
+        sudo apt-get update
+        sudo apt-get install ros-indigo-ros-base
+        source /opt/ros/indigo/setup.bash
+        mkdir -p ~/indigo/src
+        cd ~/indigo/src
+        git clone git@github.com:mikeferguson/etherbotix_python.git
+        git clone git@github.com:mikeferguson/maxwell.git
+        cd ~/indigo
+        rosdep install --from-paths src --ignore-src --rosdistro indigo -y
+        catkin_make
 
  * At this point, you probably want to add this to the end of your ~/.bashrc:
 
-    source ~/indigo/devel/setup.bash
+        source ~/indigo/devel/setup.bash
 
  * (Optional) [Pair your PS3 Controller](http://wiki.ros.org/ps3joy/Tutorials/PairingJoystickAndBluetoothDongle).
  * (Optional) Setup a PS3 Controller:
 
-    sudo rm /etc/init/bluetooth.conf
-    roscd maxwell_defs/config
-    sudo cp etc/init/ps3joy.conf /etc/init/ps3joy.conf
+        sudo rm /etc/init/bluetooth.conf
+        roscd maxwell_defs/config
+        sudo cp etc/init/ps3joy.conf /etc/init/ps3joy.conf
 
  * (Optional) Install upstart scripts. The robot can always be started with
    roslaunch, but upstart allows it to start automatically.
 
-    roscd maxwell_defs/config
-    sudo ./install.sh
+        roscd maxwell_defs/config
+        sudo ./install.sh
 
 ## Troubleshooting ASUS Xtion
 
