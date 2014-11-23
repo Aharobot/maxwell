@@ -55,9 +55,10 @@ Line|Qty | Description                        | Est. Cost | Notes / Vendor
 37  |1   | FR07-H101K | $27.90 | Hinge kit used for wrist flex. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx)
 38  |2   | HN07-I101 Idler | $14.10 | Needed for upper arm MX-64 servos. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx)
 39  |3   | FR07-S101K Side Frame | $11.90 | Used for arm pan. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx)
-40  |4   | 8020 White Unibearing Pad 6792 | $3.00 | Support bearings for the arm trolley.
+40  |4   | 8020 White Unibearing Pad 6705 | $3.00 | Support bearings for the arm trolley.
 41  |8   | 10-32 Flat Head, 3/4"L | ??? | Used to attach support bearings to laser cut arm trolley parts.
 42  |2   | M5 x 8mm SHCS | $5.95 (50pk) | Used to attach arm trolley to linear actuator. [McMaster](http://www.mcmaster.com/#91274a125/=u4n45c)
+??  |2   | 1-1/2"L 4-40 Standoff | ? | Holds trolley sides together on backside of torso.
 
 The following parts are components of the Gen 1 gripper:
 
