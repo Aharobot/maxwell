@@ -52,9 +52,9 @@ Line|Qty | Description                        | Est. Cost | Notes / Vendor
 ----|----|------------------------------------|-----------|-------
 35  |3   | Dynamixel AX-12 | $44.90 | (2) in head, (1) for wrist roll. [Trossen Robotics](http://www.trossenrobotics.com/dynamixel-ax-12-robot-actuator.aspx)
 36  |5   | Dynamixel MX-64T | $299.90 | Used in arm. [Trossen Robotics](http://www.trossenrobotics.com/p/mx-64t-dynamixel-robot-actuator.aspx)
-37  |1   | FR07-H101K | $27.90 | Hinge kit used for wrist flex. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-H101K-Hinge-Frame-Set.aspx)
-38  |2   | HN07-I101 Idler | $14.10 | Needed for upper arm MX-64 servos. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN07-I101-Idler-Bearing-Set.aspx)
-39  |3   | FR07-S101K Side Frame | $11.90 | Used for arm pan. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR07-S101K-Frame-Set.aspx)
+37  |1   | FR05-H101K | $29.90 | Hinge kit used for wrist flex. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR05-H101K-Hinge-Frame-Set.aspx)
+38  |2   | HN05-I101 Idler | $15.40 | Needed for upper arm MX-64 servos. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-HN05-I101-Idler-Bearing-Set.aspx)
+39  |3   | FR05-S101K Side Frame | $14.90 | Used for arm pan. [Trossen Robotics](http://www.trossenrobotics.com/p/Robotis-Dynamixel-FR05-S101K-Side-Frame-Set.aspx)
 40  |4   | 8020 White Unibearing Pad 6705 | $3.00 | Support bearings for the arm trolley.
 41  |8   | 10-32 Flat Head, 3/4"L | ??? | Used to attach support bearings to laser cut arm trolley parts.
 42  |2   | M5 x 8mm SHCS | $5.95 (50pk) | Used to attach arm trolley to linear actuator. [McMaster](http://www.mcmaster.com/#91274a125/=u4n45c)
