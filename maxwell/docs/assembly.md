@@ -8,6 +8,9 @@ The BaneBots hubs are only available in Metric, the motor shafts however are
 English. The 6mm bore on the hubs will need to be slightly enlarged to a 1/4"
 bore.
 
+One of the pieces of 8020 rail will need to be cut to 14" long for use as
+the upper piece of Maxwell's torso.
+
 The 20" track-style linear actuator has no feedback. Feedback has been added
 by putting an optical flag on the threaded rod, providing a low resolution
 encoder. The flag is 3D printed, as is the mount for the photointerrupter.
