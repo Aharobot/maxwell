@@ -33,7 +33,7 @@ Line|Qty | Description                        | Est. Cost | Notes / Vendor
 20  |1   | 20" Linear actuator| $119.99 | Torso lift actuator. [Firgelli](http://www.firgelliauto.com/product_info.php?cPath=118&products_id=255)
 21  |2   | Actuator mount | $7.00 | Only bracket is used, hardware is replaced. [Firgelli](http://www.firgelliauto.com/product_info.php?products_id=54)
 22  |2   | 1/4-20 x 1.5" Bolt w/ Nut | ??? | For attaching linear actuator to mounts.
-23  |2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. This will need to be trimmed to a length of X?? and Y??.
+23  |2   | 8020 1010x36 T Slot Aluminum Extrusion | ~$10 | The 8020 Ebay store can be a good place to buy this and other 8020 components. The bottom piece will be un-cut, 36" long. The top piece used for Maxwell's torso will need to be cut to 14" long.
 24  |2   | 8020 Corner Bracket P/N 4108 | $2.75 | Used to hold torso upright.
 25  |1   | 8020 Joining Strip P/N 4117 | $5 | Attaches upper and lower 8020 sections.
 26  |1   | 8020 3/8" Bolt, T Nuts (25) P/N 3386 | $11.50 | (2) for corner bracket upright portion, (4) for joining plate, (2) for mounting linear actuator.
